@@ -1,5 +1,4 @@
 
 public class sample1 {
-	nnnnn
-uuu
+int a;
 }
